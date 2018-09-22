@@ -3,7 +3,10 @@
 * @author Yupeng Zhao
 * @Date 2018-07-09
 * @version 1.0
-* @section DESCRIPTION
+* @section Program Description:
+	This program allows users to add books into a vector and display the list of books.
+Users have the choice to add, display, and quit simulation every time a new book is going
+to be added. Each book item has private variables title, arthur, and publication associated.
 */
 // I declare that this assignment is my own work and that I have correctly acknowledged the
 // work of others. I acknowledged that I have read and followed the Academic Honesty and
